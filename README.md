@@ -1,6 +1,5 @@
-# fcm_cloud_messaging
-
-A new Flutter project.
+# InfoApp
+An app that lets you to connnect with your favouraite instituitions.
 
 ## Getting Started
 
